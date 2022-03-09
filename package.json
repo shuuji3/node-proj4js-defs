@@ -1,10 +1,10 @@
 {
-  "name" : "proj4js-defs",
+  "name" : "@shuuji3/proj4js-defs",
   "description" : "Wrapper for all epsg definitions from PostGIS for proj4js in one easy-to-use file",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "repository" : {
     "type" : "git",
-    "url" : "git://github.com/yuletide/node-proj4js-defs"
+    "url" : "git://github.com/shuuji3/node-proj4js-defs"
   },
   "main" : "epsg.js",
   "engines" : {
